@@ -1,0 +1,26 @@
+header {
+	background-color: darkgray;
+	color: lightgray;
+	opacity: 0.8;
+}
+body {
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Beluga_oceanografic.jpg/280px-Beluga_oceanografic.jpg');
+}
+ul {
+	display: flex;
+	flex-direction: column;
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+main {
+	background-color: darkgreen;
+	color: darkgoldenrod;
+	opacity: 0.8;
+}
+footer {
+	background-color: darkblue;
+	color: lightsteelblue;
+	opacity: 0.8;
+}
